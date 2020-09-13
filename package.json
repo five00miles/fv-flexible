@@ -1,0 +1,21 @@
+{
+  "name": "fv-flexible",
+  "version": "1.0.0",
+  "description": "移动端样式适配",
+  "main": "index.js",
+  "scripts": {
+    "compress": "uglifyjs index.js -o index.min.js -c -m"
+  },
+  "keywords": [
+    "rem",
+    "css",
+    "style",
+    "mobile",
+    "flexible"
+  ],
+  "author": "five00miles",
+  "license": "ISC",
+  "devDependencies": {
+    "uglify-js": "^3.10.4"
+  }
+}
