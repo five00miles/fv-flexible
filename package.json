@@ -1,6 +1,6 @@
 {
   "name": "fv-flexible",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "移动端样式适配，从lib-flexible改过来的",
   "main": "index.min.js",
   "scripts": {

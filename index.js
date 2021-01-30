@@ -14,7 +14,7 @@
 		let rem = docEl.clientWidth / 7.5
 		if (flexible.lock && rem > flexible.lockWidth) rem = flexible.lockWidth
 		docEl.style.fontSize = rem + 'px'
-		flexible.rem = rem
+		flexible.fontSize = rem
 	}
 
 	setRemUnit()
